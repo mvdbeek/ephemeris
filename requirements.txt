@@ -1,5 +1,6 @@
 six>=1.9.0
 PyYAML
+git+git://github.com/galaxyproject/bioblend@main#egg=bioblend
 bioblend>=0.10.0
 Jinja2
 galaxy-tool-util>=20.9.1
